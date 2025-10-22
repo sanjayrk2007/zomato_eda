@@ -54,7 +54,7 @@ zomato-analysis-dashboard/
 ├── 📋 requirements.txt          # Python dependencies
 ├── 📖 README.md                 # Project documentation
 ├── 🚫 .gitignore               # Git ignore file
-└── 📊 ipl_analysis.py          # Additional analysis (IPL data)
+
 ```
 
 ## 🎯 Key Findings
@@ -168,12 +168,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
@@ -205,3 +199,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if you found it helpful!**
 
 📧 **Feel free to reach out for any questions or suggestions!**
+
